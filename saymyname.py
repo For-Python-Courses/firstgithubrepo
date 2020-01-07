@@ -4,9 +4,7 @@
 '''
 def say_name( ):
     # This line is the most recent change
-   :i 
-:q
-    print ("I'm Lou and you're not changed rfor feature 102")
+    print ("I'm Lou and you're not changed for feature 102")
 
 def main( ):
     say_name( )
